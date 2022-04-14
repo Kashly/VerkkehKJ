@@ -1,2 +1,4 @@
 # VerkkehKJ.github.io
-Verkkosivujenkehittaminen kurssityö
+Verkkosivujen kehittaminen kurssityö
+
+Kurssityö
